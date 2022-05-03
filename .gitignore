@@ -80,6 +80,7 @@ crashlytics-build.properties
 # Wizzard / .zip files
 /[Aa]ssets/WizardPolyArt/SRP
 
-# Demo 씬
+# Demo Scene
 /[Aa]ssets/WizardPolyArt/Scene
 /[Aa]ssets/MagicArsenal/Demo/Scenes
+/[Aa]ssets/SkythianCat/Glowing_Forest/DEMO
